@@ -14,7 +14,7 @@ List of icons currently working on
 * Minor Windmill Area
 * Larger Windmill Area  
 
-![wind_icons.png]({{site.baseurl}}/wind_icons.png)
+![wind_icons.png]({{site.baseurl}}/img_readme/wind_icons.png)
 
 
 
