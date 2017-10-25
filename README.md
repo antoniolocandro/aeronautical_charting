@@ -14,4 +14,8 @@ List of icons currently working on
 * Minor Windmill Area
 * Larger Windmill Area  
 
+![wind_icons.png]({{site.baseurl}}/wind_icons.png)
+
+
+
 This resources are licensed under the MIT license
