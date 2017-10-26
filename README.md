@@ -13,6 +13,7 @@ List of icons currently available
 * 103_Navaid_VOR_DME
 * 140_single_windfarm_no_light
 
+![Available Aeronautical Symbols Image](/img_readme/aeronautical_symbols.png?raw=true "Image")
 
 List of icons currently working on
 * Single Windmill lighted
