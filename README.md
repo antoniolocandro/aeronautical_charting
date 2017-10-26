@@ -7,14 +7,19 @@ If you know want to contribute you are certainly welcome!
 
 ---------------------------
 List of icons currently available
-* Single Windmill not lighted
+* 084_AD_CivilLand
+* 101_Navaid_VOR
+* 102_Navaid_DME
+* 103_Navaid_VOR_DME
+* 140_single_windfarm_no_light
+
 
 List of icons currently working on
 * Single Windmill lighted
 * Minor Windmill Area
 * Larger Windmill Area  
 
-![wind_icons.png]({{site.baseurl}}/img_readme/wind_icons.png)
+
 
 
 
