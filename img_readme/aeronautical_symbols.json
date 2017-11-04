@@ -27,39 +27,46 @@
     "x": 64,
     "y": 64
   },
-  "121_Compulsory_Fly_By_INT": {
+  "107_Navaid_VORTAC": {
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
     "x": 128,
+    "y": 0
+  },
+  "121_Compulsory_Fly_By_INT": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 192,
     "y": 0
   },
   "121_On_Request_Fly_By_INT": {
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 192,
-    "y": 0
+    "x": 128,
+    "y": 64
   },
   "121_On_Request_Fly_By_Waypoint": {
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 128,
+    "x": 192,
     "y": 64
   },
   "121_On_Request_Fly_Over_Waypoint": {
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 192,
-    "y": 64
+    "x": 0,
+    "y": 128
   },
   "140_single_windfarm_no_light": {
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 0,
+    "x": 64,
     "y": 128
   }
 }
