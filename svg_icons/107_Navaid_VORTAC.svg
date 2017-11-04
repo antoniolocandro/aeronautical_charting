@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg3344"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 32 32"
+   sodipodi:docname="107_Navaid_VORTAC.svg">
+  <defs
+     id="defs3346" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.097087"
+     inkscape:cx="15.382988"
+     inkscape:cy="14.043178"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-1.2274376,31.889763"
+       orientation="0,1"
+       id="guide3375" />
+    <sodipodi:guide
+       position="-2.4548751,0"
+       orientation="0,1"
+       id="guide3377" />
+    <sodipodi:guide
+       position="0,34.015747"
+       orientation="1,0"
+       id="guide3379" />
+    <sodipodi:guide
+       position="31.913376,36.850393"
+       orientation="1,0"
+       id="guide3381" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3509" />
+    <sodipodi:guide
+       position="8,27"
+       orientation="1,0"
+       id="guide4140" />
+    <sodipodi:guide
+       position="24,28"
+       orientation="1,0"
+       id="guide4142" />
+    <sodipodi:guide
+       position="-5,23"
+       orientation="0,1"
+       id="guide4144" />
+    <sodipodi:guide
+       position="-11,9"
+       orientation="0,1"
+       id="guide4146" />
+    <sodipodi:guide
+       position="5.1364237,23"
+       orientation="1,0"
+       id="guide4298" />
+    <sodipodi:guide
+       position="11,23"
+       orientation="0,1"
+       id="guide4300" />
+    <sodipodi:guide
+       position="11,22"
+       orientation="0,1"
+       id="guide4302" />
+    <sodipodi:guide
+       position="13,23"
+       orientation="1,0"
+       id="guide4325" />
+    <sodipodi:guide
+       position="19,24"
+       orientation="1,0"
+       id="guide4327" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3349">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.421875;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 18.953125,10.937499 2.907691,5.088732 -2.953125,5.0625 -5.860816,-0.02623 -2.907692,-5.088732 2.953125,-5.062501 z"
+       id="path4152"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4155"
+       cx="16"
+       cy="16"
+       r="0.75" />
+    <g
+       id="g4250"
+       inkscape:transform-center-x="5.632"
+       inkscape:transform-center-y="-3.328">
+      <rect
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         y="15.107137"
+         x="-8.8403225"
+         height="1.5043424"
+         width="6.0173697"
+         id="rect4233"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.15043424;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <rect
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         y="14.078876"
+         x="-8.8330469"
+         height="1.5043424"
+         width="6.0173697"
+         id="rect4233-3"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.15043424;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <g
+       id="g4250-0"
+       inkscape:transform-center-x="0.035608048"
+       inkscape:transform-center-y="6.5002757"
+       transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,10.123305,37.82358)">
+      <rect
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         y="15.107137"
+         x="-8.8403225"
+         height="1.5043424"
+         width="6.0173697"
+         id="rect4233-8"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.15043424;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <rect
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         y="14.078876"
+         x="-8.8330469"
+         height="1.5043424"
+         width="6.0173697"
+         id="rect4233-3-5"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.15043424;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <g
+       id="g4250-4"
+       inkscape:transform-center-x="-5.6981323"
+       inkscape:transform-center-y="-3.2134549"
+       transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,37.908761,10.118429)">
+      <rect
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         y="15.107137"
+         x="-8.8403225"
+         height="1.5043424"
+         width="6.0173697"
+         id="rect4233-84"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.15043424;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <rect
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         y="14.078876"
+         x="-8.8330469"
+         height="1.5043424"
+         width="6.0173697"
+         id="rect4233-3-7"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.15043424;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>
