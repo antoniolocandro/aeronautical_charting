@@ -8,9 +8,12 @@ If you know want to contribute you are certainly welcome!
 ---------------------------
 List of icons currently available
 * 084_AD_CivilLand
+* 100_Navaid_NDB
 * 101_Navaid_VOR
 * 102_Navaid_DME
 * 103_Navaid_VOR_DME
+* 121_Fix_Not_Compulsory
+* 121_FIx_Compulsory
 * 140_single_windfarm_no_light
 
 ![Available Aeronautical Symbols Image](/img_readme/aeronautical_symbols.png?raw=true "Image")
