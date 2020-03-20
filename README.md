@@ -12,9 +12,21 @@ List of icons currently available
 * 101_Navaid_VOR
 * 102_Navaid_DME
 * 103_Navaid_VOR_DME
-* 121_Fix_Not_Compulsory
-* 121_FIx_Compulsory
+* 107_Navaid_VORTAC
+* 121_Compulsory_Fly_By_INT
+* 121_Compulsory_Fly_By_Waypoint
+* 121_On_Request_Fly_By_INT
+* 121_On_Request_Fly_By_Waypoint
+* 121_On_Request_Fly_Over_Waypoint
+* 123_ATS_MET_compulsory
+* 123_ATS_MET_non_compulsory
+* 124_FAF
+* 130_obstacle
+* 131_lighted_obstacle
+* 132_grouped_obstacle
+* 133_grouped_lighted_obstacle
 * 140_single_windfarm_no_light
+* 999_distance_background
 
 ![Available Aeronautical Symbols Image](/img_readme/aeronautical_symbols.png?raw=true "Image")
 
