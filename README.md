@@ -29,6 +29,7 @@ List of icons currently available
 * 999_distance_background
 
 ![Available Aeronautical Symbols Image](/img_readme/aeronautical_symbols.png?raw=true "Image")
+-> Image is not showing all available icons due to processing error but symbols are available for download
 
 List of icons currently working on
 * Single Windmill lighted
