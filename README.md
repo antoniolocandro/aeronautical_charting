@@ -8,6 +8,9 @@ If you know want to contribute you are certainly welcome!
 ---------------------------
 List of icons currently available
 * 084_AD_CivilLand
+* 086_AD_MilitaryLand 
+* 090_AD_Emergency_No_Facility
+* 094_AD_Heliport
 * 100_Navaid_NDB
 * 101_Navaid_VOR
 * 102_Navaid_DME
