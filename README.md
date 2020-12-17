@@ -39,7 +39,12 @@ List of icons currently working on
 * Minor Windmill Area
 * Larger Windmill Area  
 
-If you want to just use the icons Download as ZIP the repository and extract, downloading individual SVG wont work.
+Now including also styles for lines and polygons 
+---------------------------
+List of styles currently available
+* 128_Restricted_Airspace (Prohibited, Restricted or Danger Area)
+
+If you want to just use the icons or styles Download as ZIP the repository and extract, downloading individual SVG wont work.
 ![Download Image](/img_readme/dowload_icons.png?raw=true "Image")
 
 Else you can sync with Git and contribute
