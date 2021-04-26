@@ -51,3 +51,17 @@ Else you can sync with Git and contribute
 
 
 This resources are licensed under the MIT license
+
+QGZ templates prepared to comply with Annex 4 Chart
+---------------------------------------------------
+
+
+![image](https://user-images.githubusercontent.com/4627073/116162050-38aa3380-a6b2-11eb-9e90-da20e54b709a.png)
+![image](https://user-images.githubusercontent.com/4627073/116162092-57a8c580-a6b2-11eb-91a5-e0040c7bd3e0.png)
+
+Some grids need to be enabled as they are turned off by default for rendering reasons, alwasy remember to use a Projected Coordinate System for your map the grid is already pre-configured to render in EPSG 4326 (WGS84)
+
+![image](https://user-images.githubusercontent.com/4627073/116162217-90e13580-a6b2-11eb-8c39-25a39ba2e718.png)
+
+
+
