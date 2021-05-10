@@ -319,7 +319,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol name="PRD_Area" type="fill" force_rhr="0" alpha="1" clip_to_extent="1" tags="aviation">
+    <symbol name="128_Restricted_Area" type="fill" force_rhr="0" alpha="1" clip_to_extent="1" tags="aviation">
       <data_defined_properties>
         <Option type="Map">
           <Option value="" name="name" type="QString"/>
