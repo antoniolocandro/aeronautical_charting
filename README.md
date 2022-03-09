@@ -57,7 +57,7 @@ QGZ templates prepared to comply with Annex 4 Chart
 
 
 ![image](https://user-images.githubusercontent.com/4627073/116162050-38aa3380-a6b2-11eb-9e90-da20e54b709a.png)
-![image](https://user-images.githubusercontent.com/4627073/155347856-27672d39-6550-4f27-b6be-6297f4ef2cfb.png)
+![image](https://user-images.githubusercontent.com/4627073/157462332-c140937c-9162-4053-b0a5-d6576c3401af.png)
 
 Some grids need to be enabled as they are turned off by default for rendering reasons, alwasy remember to use a Projected Coordinate System for your map the grid is already pre-configured to render in EPSG 4326 (WGS84)
 
