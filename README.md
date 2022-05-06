@@ -15,7 +15,9 @@ List of icons currently available
 * 101_Navaid_VOR
 * 102_Navaid_DME
 * 103_Navaid_VOR_DME
+* 106_Navaid_TACAN
 * 107_Navaid_VORTAC
+* 109_Navaid_Elliptical
 * 121_Compulsory_Fly_By_INT
 * 121_Compulsory_Fly_By_Waypoint
 * 121_On_Request_Fly_By_INT
