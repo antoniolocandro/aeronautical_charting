@@ -31,7 +31,12 @@ List of icons currently available
 * 132_grouped_obstacle
 * 133_grouped_lighted_obstacle
 * 140_single_windfarm_no_light
+* 153_AD_RVR_site
+* 996_Windsock
+* 997_VDP
+* 998_MAPt
 * 999_distance_background
+* tree
 
 ![Available Aeronautical Symbols Image](/img_readme/aeronautical_symbols.png?raw=true "Image")
 -> Image is not showing all available icons due to processing error but symbols are available for download
@@ -51,7 +56,6 @@ If you want to just use the icons or styles Download as ZIP the repository and e
 
 Else you can sync with Git and contribute
 
-
 This resources are licensed under the MIT license
 
 QGZ templates prepared to comply with Annex 4 Chart
@@ -61,7 +65,7 @@ QGZ templates prepared to comply with Annex 4 Chart
 ![image](https://user-images.githubusercontent.com/4627073/116162050-38aa3380-a6b2-11eb-9e90-da20e54b709a.png)
 ![image](https://user-images.githubusercontent.com/4627073/157462332-c140937c-9162-4053-b0a5-d6576c3401af.png)
 
-Some grids need to be enabled as they are turned off by default for rendering reasons, alwasy remember to use a Projected Coordinate System for your map the grid is already pre-configured to render in EPSG 4326 (WGS84)
+Some grids need to be enabled as they are turned off by default for rendering reasons, always remember to use a Projected Coordinate System for your map the grid is already pre-configured to render in EPSG 4326 (WGS84)
 
 ![image](https://user-images.githubusercontent.com/4627073/116162217-90e13580-a6b2-11eb-8c39-25a39ba2e718.png)
 
